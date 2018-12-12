@@ -1,0 +1,7 @@
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\bin\Debug\wruszkaresuscytacja.exe
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\bin\Debug\wruszkaresuscytacja.pdb
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\obj\x86\Debug\wruszkaresuscytacja.Form1.resources
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\obj\x86\Debug\wruszkaresuscytacja.Properties.Resources.resources
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\obj\x86\Debug\wruszkaresuscytacja.csproj.GenerateResource.Cache
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\obj\x86\Debug\wruszkaresuscytacja.exe
+c:\users\fans\documents\visual studio 2010\Projects\wruszkaresuscytacja\wruszkaresuscytacja\obj\x86\Debug\wruszkaresuscytacja.pdb
